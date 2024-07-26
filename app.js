@@ -11,7 +11,10 @@ var notesRouter = require('./routes/notes');
 var catRouter = require('./routes/cat');
 var yesnoRouter = require('./routes/yesno');
 <<<<<<< HEAD
+<<<<<<< HEAD
 var notes_from_bRouter = require('./routes/notes_from_b');
+=======
+>>>>>>> 0631583c750644723979075bdde18f488b0f4a68
 =======
 >>>>>>> 0631583c750644723979075bdde18f488b0f4a68
 
@@ -34,7 +37,10 @@ app.use('/notes', notesRouter);
 app.use('/cat', catRouter);
 app.use('/yesno', yesnoRouter);
 <<<<<<< HEAD
+<<<<<<< HEAD
 app.use('/notes_from_b', notes_from_bRouter);
+=======
+>>>>>>> 0631583c750644723979075bdde18f488b0f4a68
 =======
 >>>>>>> 0631583c750644723979075bdde18f488b0f4a68
 
